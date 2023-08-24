@@ -1,0 +1,28 @@
+BEGIN YODA_COUNTER_V2 /_EVTCOUNT
+Path: /_EVTCOUNT
+ScaledBy: 1.00000000000000000e+00
+Title: ~
+Type: Counter
+---
+# sumW	 sumW2	 numEntries
+7.321076e-04	1.364066e-11	3.976260e+05
+END YODA_COUNTER_V2
+
+BEGIN YODA_COUNTER_V2 /RAW/_EVTCOUNT
+Path: /RAW/_EVTCOUNT
+Title: ~
+Type: Counter
+---
+# sumW	 sumW2	 numEntries
+7.321076e-04	1.364066e-11	3.976260e+05
+END YODA_COUNTER_V2
+
+BEGIN YODA_SCATTER1D_V2 /_XSEC
+Variations: [""]
+Path: /_XSEC
+Title: ~
+Type: Scatter1D
+---
+# xval	  xerr-	 xerr+	
+3.506025e+07	0.000000e+00	0.000000e+00
+END YODA_SCATTER1D_V2
